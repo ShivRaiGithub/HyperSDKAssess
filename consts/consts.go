@@ -13,11 +13,11 @@ import (
 
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = ""
+	HRP = "metaHyper"
 	// TODO: choose a name for your hyperchain
-	Name = ""
+	Name = "metaHyperSDKChain"
 	// TODO: choose a token symbol
-	Symbol = ""
+	Symbol = "MHS"
 )
 
 var ID ids.ID
